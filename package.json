@@ -1,0 +1,19 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "Juntos na TI website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juntosnati/portal.git"
+  },
+  "author": "Juntos na TI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juntosnati/portal/issues"
+  },
+  "homepage": "https://github.com/juntosnati/portal#readme"
+}
